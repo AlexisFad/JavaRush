@@ -18,6 +18,7 @@ package com.javarush.task.task01.task0132;
 3. Метод sumDigitsInNumber должен возвращать значение типа int.
 4. Метод sumDigitsInNumber не должен ничего выводить на экран.
 5. Метод sumDigitsInNumber должен правильно возвращать сумму всех цифр в числе number.
+
 */
 
 public class Solution {
