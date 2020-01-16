@@ -1,5 +1,5 @@
 
-[![N|Solid](https://javarush.ru/assets/images/site/logo/logo--light.svg)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://javarush.ru/assets/images/site/logo/logo--light.svg)](https://javarush.ru/)
 
 # JavaRush
 
