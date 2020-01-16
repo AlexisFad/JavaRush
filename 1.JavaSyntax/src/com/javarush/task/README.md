@@ -14,9 +14,9 @@
 | 3 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) | Первая программа: ввод с клавиатуры, работа в IDE |
 | 4 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) | Знакомство с ветвлениями и циклами |
 | 5 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) | Знакомство с классами: написание своих классов, конструкторы |
-| 6 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) |  с объектами: написание своих объектов, время жизни, статические переменные |
+| 6 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) | Знакомство с объектами: написание своих объектов, время жизни, статические переменные |
 | 7 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) | Массивы и списки: Array, ArrayList, знакомство с Generics |
-| 8 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) | ЗКоллекции: LinkedList, HashSet, HashMap. Date - дата |
+| 8 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) | Коллекции: LinkedList, HashSet, HashMap. Date - дата |
 | 9 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) | Знакомство с исключениями: try, catch, throws, multy-catch |
 | 10 |![Build Status](https://img.shields.io/static/v1?label=Выполнено&message=100%&color=<COLOR>) | Приведение примитивных типов: расширение и сужение |
 
